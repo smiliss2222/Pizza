@@ -164,5 +164,6 @@ int main()
             VodkaCount = productCount;
         }
 
-    }   
+    }  
+    return 0;
 }
